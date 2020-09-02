@@ -24,10 +24,11 @@ Please read the notes written in the matlab codes.
 N/A
 
 
-*The Optic Channel was divided to 50 sections in order to simulate the Maxwellian distribution effect of the PMD*
 
 ## Optical Channel Model
 **Optical Channel:**
+
+*The Optic Channel was divided to 50 sections in order to simulate the Maxwellian distribution effect of the PMD*
 
 ![](Optical%20Channel.jpg)
 
