@@ -42,17 +42,17 @@ N/A
 
 **Results:**
 
-**16QAM Constellation**
+**16QAM Constellation Before entering the Optical Channel**
 
 ![](16qam%20constellation.bmp)
 
 
-**CMA and RDE Equalization**
+**16QAM Constellation with Optical Channel Distorions and the CMA and RDE Equalization**
 
 ![](CMA&RDE%20Constellation.bmp)
 
 
-**LMS Equalization**
+**16QAM Constellation with Optical Channel Distorions and the LMS Equalization**
 
 ![](LMS%20Constellation.bmp)
 
