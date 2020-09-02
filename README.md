@@ -24,7 +24,14 @@ Please read the notes written in the matlab codes.
 N/A
 
 
+*The Optic Channel was divided to 50 sections in order to simulate the Maxwellian distribution effect of the PMD*
 
+## Optical Channel Model
+**Optical Channel:**
+
+![](Optical%20Channel.jpg)
+
+![](Optical%20Channel%20Dynamic.jpg)
 
 ## System and Results
 **System Diagram:**
@@ -48,6 +55,8 @@ N/A
 **LMS Equalization**
 
 ![](LMS%20Constellation.bmp)
+
+
 
 
 
